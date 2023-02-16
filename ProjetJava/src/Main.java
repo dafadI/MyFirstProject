@@ -5,7 +5,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
+        
+         //Mon Projet CineBase
         // Création des objets ******************************************************************
         ArrayList<Personne> listePerso = new ArrayList<>();
         Personne p1 = new Personne(01,"Denfer","Lisa");
